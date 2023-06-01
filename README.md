@@ -35,6 +35,8 @@ Create polls migrations
 
 python manage.py makemigrations polls
 
+<img width="680" alt="Screenshot 2023-05-30 at 13 15 42" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/d440fbfe-5500-42a2-b30c-ab0291da3dbe">
+
 Run migrations
 
 python manage.py migrate
