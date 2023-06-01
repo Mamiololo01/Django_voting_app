@@ -83,6 +83,8 @@ Create admin user
 
 python manage.py createsuperuser
 
+<img width="548" alt="Screenshot 2023-05-31 at 10 14 53" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/2e63e8cd-519a-45ee-9027-f693de00b035">
+
 Create pages app
 
 python manage.py startapp pages
