@@ -1,6 +1,8 @@
 # Django_voting_app
 A voting app using Django 
 
+Project is the overall app or application
+
 Install pipenv
 
 pip install pipenv
