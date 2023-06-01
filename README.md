@@ -39,6 +39,8 @@ Run migrations
 
 python manage.py migrate
 
+<img width="696" alt="Screenshot 2023-05-30 at 13 17 41" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/0163f4c3-16ee-479e-89e0-e28f5da427b3">
+
 Using the shell
 
 python manage.py shell
