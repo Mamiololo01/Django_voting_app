@@ -27,6 +27,8 @@ Run initial migrations
 
 python manage.py migrate
 
+<img width="661" alt="Screenshot 2023-05-30 at 12 49 31" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/bc30a61f-2b01-4cae-9fee-c1cf28451499">
+
 Create polls app
 
 python manage.py startapp polls
