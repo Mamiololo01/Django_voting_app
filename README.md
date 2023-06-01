@@ -84,3 +84,14 @@ python manage.py createsuperuser
 Create pages app
 
 python manage.py startapp pages
+
+
+Login to the url /admin
+
+<img width="1279" alt="Screenshot 2023-05-31 at 12 46 13" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/3076ac98-3b17-4396-a80c-098b1b1b6615">
+
+
+<img width="1268" alt="Screenshot 2023-05-31 at 12 50 18" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/5680d982-2699-4a65-baa0-28a8803a8c7e">
+
+
+<img width="1265" alt="Screenshot 2023-05-31 at 12 50 27" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/4ce2cba2-8861-4b08-8b11-305abc716de3">
