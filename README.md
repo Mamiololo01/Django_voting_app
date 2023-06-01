@@ -77,6 +77,8 @@ q.choice_set.all()
 
 quit()
 
+<img width="801" alt="Screenshot 2023-05-31 at 10 11 37" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/8e2d60ff-e0d7-408c-96e2-fbb4a38c0edc">
+
 Create admin user
 
 python manage.py createsuperuser
