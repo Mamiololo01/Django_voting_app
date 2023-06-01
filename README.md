@@ -24,6 +24,8 @@ Create project
 
 django-admin startproject pollster
 
+<img width="794" alt="Screenshot 2023-05-30 at 12 38 28" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/889971d8-fae1-4b2f-b2bf-4f60c061023e">
+
 cd pollster
 
 Run server on http: 127.0.0.1:8000 (ctrl+c to stop)
