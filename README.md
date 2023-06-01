@@ -112,6 +112,8 @@ python manage.py startapp pages
 
 Login to the url /admin
 
+<img width="1250" alt="Screenshot 2023-05-31 at 10 18 40" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/55e07d5e-c5a7-4663-929d-caf4a65cf9ba">
+
 <img width="1279" alt="Screenshot 2023-05-31 at 12 46 13" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/3076ac98-3b17-4396-a80c-098b1b1b6615">
 
 
