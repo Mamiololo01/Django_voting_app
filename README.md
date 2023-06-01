@@ -28,9 +28,9 @@ django-admin startproject pollster
 
 cd pollster
 
-Run server on http: 127.0.0.1:8000 (ctrl+c to stop)
+Click on the url http://127.0.0.1:8082/ to see Django landing page
 
-python manage.py runserver
+python manage.py runserver 
 
 <img width="773" alt="Screenshot 2023-05-30 at 12 45 38" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/a4a27425-3e36-4c2d-8d28-c663dbdface1">
 
