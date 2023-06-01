@@ -13,6 +13,8 @@ Install Django
 
 pipenv install django
 
+<img width="764" alt="Screenshot 2023-05-30 at 12 35 24" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/dd22bc0d-d3f8-4b76-8d38-947836a0f5d6">
+
 Create project
 
 django-admin startproject pollster
