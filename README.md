@@ -5,11 +5,14 @@ Install pipenv
 
 pip install pipenv
 
-<img width="793" alt="Screenshot 2023-05-30 at 12 33 14" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/c3c8127c-fa9b-4d1d-9c61-7d91cadf92ab">
+<img width="811" alt="Screenshot 2023-05-30 at 12 32 15" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/c8c96bd8-22ba-40e6-a6f5-a036de06fd02">
+
 
 Create Venv
 
 pipenv shell
+
+<img width="793" alt="Screenshot 2023-05-30 at 12 33 14" src="https://github.com/Mamiololo01/Django_voting_app/assets/67044030/c3c8127c-fa9b-4d1d-9c61-7d91cadf92ab">
 
 Install Django
 
